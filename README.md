@@ -4,8 +4,6 @@ This report provides an overview of the concepts behind the Emergence Machine, a
 
 <img src="art.png" alt="Art" width="512" height="512">
 
-*A circuit that designs itself*
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
