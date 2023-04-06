@@ -3,7 +3,7 @@
 This report provides an overview of the concepts behind the Emergence Machine, a Meta Complete system based on the idea of using viral instructions to compose larger reasoning circuits.
 
 ![Art](art.png)
-*A circuit that designs itself.*
+*A circuit that designs itself*
 
 ## Table of Contents
 
